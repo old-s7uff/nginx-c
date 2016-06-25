@@ -61,3 +61,6 @@ drwxr-xr-x 4 root root 4096 Jun 25 00:43 ..
 drwxr-xr-x 3 root root 4096 Jun 25 00:47 .
 drwxr-xr-x 9 root root 4096 Jun 25 01:26 nginx-1.9.3
 root@scw-newgg:/etc/nginx# 
+
+
+aes encrypt. https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/crypto-js/CryptoJS%20v3.1.2.zip
