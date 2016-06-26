@@ -29,7 +29,7 @@
 --add-module=/opt/nginx/modules/nginx-dav-ext-module \
 --add-module=/opt/nginx/modules/nginx-upload-progress-module
 
-
+http://image.prntscr.com/image/b536995685854b5f9585f259b61c0aca.png
 
 root@scw-newgg:/etc/nginx# ls -lart /opt/nginx/
 total 16
